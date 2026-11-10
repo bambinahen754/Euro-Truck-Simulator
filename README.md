@@ -209,4 +209,4 @@ This repository serves as the official landing page for Euro Truck Simulator. Th
 **Get the most recent version of Euro Truck Simulator today!**
 
 ---
-**Last updated:** 2026-11-10 17:29:51 UTC
+**Last updated:** 2026-11-10 22:51:30 UTC
